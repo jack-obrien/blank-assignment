@@ -1,5 +1,6 @@
 Clone this repo and start modifying assignment.tex to work on a math assignment.
 
+```
   .  ,
   |\/|
   bd "n.
@@ -10,3 +11,4 @@ Clone this repo and start modifying assignment.tex to work on a math assignment.
        H l     H |`'  
        H [     H [
   ____//,]____//,]___
+```
