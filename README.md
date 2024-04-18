@@ -7,6 +7,7 @@ cd <this repo>
 git remote remove origin
 On github, create a new empty repo
 git remote add origin <link to new empty repo>
+git push -u origin master
 ```
 
 ```
